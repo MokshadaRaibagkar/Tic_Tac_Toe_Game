@@ -27,9 +27,9 @@ A simple implementation of the classic Tic Tac Toe game using HTML, CSS, and Jav
 
 2. **Navigate to the project directory**
 
-3. Open the project in your browser - index.html
-    -Locate the index.html file inside the project folder.
-    -Double-click on the index.html file, and it will open the game in your default web browser.
+3. **Open the project in your browser - index.html**
+    **-Locate the index.html file inside the project folder.**
+    **-Double-click on the index.html file, and it will open the game in your default web browser.**
 
 4. **Enjoy the game! You can now start playing the Tic Tac Toe game directly in your browser.**
     
